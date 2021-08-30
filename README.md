@@ -17,6 +17,4 @@ O projeto tinha como objetivo fazer um clone da página inicial da Netflix.
 - CSS
 - Javascript
 
-# Autor
 
-Jéssica Carvalho Duarte
