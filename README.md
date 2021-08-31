@@ -16,6 +16,7 @@ O projeto tinha como objetivo fazer um clone da página inicial da Netflix.
 ## Layout mobile
 ![Mobile 1](https://github.com/jessicaduarte95/netflix-page/blob/main/mobile01.PNG)
 ![Mobile 2](https://github.com/jessicaduarte95/netflix-page/blob/main/mobile02.PNG)
+![Mobile 3](https://github.com/jessicaduarte95/netflix-page/blob/main/mobile03.PNG)
 
 # Tecnologias utilizadas
 ## Front end
